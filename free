@@ -1,9 +1,3 @@
-getgenv().Settings = {
-    Enabled = true,
-    Keybind 'q',
-    Part = "HumanoidRootPart",
-    Prediction = 0.132
-}
 
 local Players, Client, Mouse, RS, Camera =
 game:GetService("Players"),
